@@ -1,0 +1,2263 @@
+SubjectID,Text,SentenceID,Subtype,PredictedLabel
+P117,"The man.
+The boat.
+The boat want.
+Man fishing.
+Dog cat dog.
+Man reading book.
+So woman drinking wine.
+The daughter in castle.
+The women and couple.
+Boy.
+",P117_Sentence1,nfvPPA,Unknown
+P99,"Woman and a wife are sitting in a having a pic uhh.
+What do you do when you have things there.
+The kids are all playing out there.
+They live over there.
+It is a picnic over here.
+They may also be the people who own the boat there too.
+Though they really hot stuff there.
+They probably would be over there rather than vice versa.
+This is clearly I mean obviously little boy is having a lot of fun making a mess there.
+The little girl here built a little tower thing.
+Somebody looks like in boy scouts this building something a some I mean fish.
+That was a fish.
+If you look more there is other things.
+This guy over here is barefoot.
+Because he has got these outside depends.
+",P99_Sentence1,lvPPA,nfvPPA
+P113,"There is two people sitting on a blanket at a picnic near the lake on the grass.
+The one person, the man, is reading a book.
+The other person is a woman.
+She pouring some liquid in a cup.
+Maybe they are listening to radio on blanket.
+The little boy is running with a kite.
+The dog is following him.
+There is a little girl is making a sandcastle near the lake.
+One man is fishing near the lake and caught a fish.
+Two poeple in the sailboat on the lake.
+There is a little house with a flag and a car parked there.
+",P113_Sentence1,nfvPPA,Unknown
+P107,"The boy is flying a kite.
+The dog is following the boy.
+The father and mother is sitting on blanket.
+The father is reading a book.
+The mother is pouring a drink.
+",P107_Sentence1,nfvPPA,Unknown
+P8,"This is a picture of a seaside or a lakeside scene with what could appear to be a family, parents, son, a dog, a daughter and another fellow having a recreational activities.
+The couple who probably I am guessing could be the parents are sitting there having a picnic.
+She is pouring a glass of wine.
+He is reading a book.
+He has his sandals to the side of him.
+So he is barefoot.
+There is something to the left of the woman.
+I cannot see it well enough to tell you what it is.
+There is a young fellow running down what looks like to be a grassy area.
+He is wearing shorts and sneakers and a t_shirt.
+He is flying a kite.
+The kite has its tail down.
+It looks like he is doing a decent job flying it.
+He has his puppy chasing him as he is running.
+There is a house in the background with an evergreen tree.
+In the front there is a large possibly an oak tree, and to my looking at the left of the door with a garage in front of the house and car pulling up to the garage.
+There are four three windows in the house.
+One in the door.
+There are foliage around the foundation of the house.
+There is a sailboat with the sails up in the water with clouds in the background.
+The water looks pretty calm.
+There is a young girl building a sandcastle with a pail and a shovel to her left.
+There is a fellow on the dock.
+He is fishing.
+I cannot tell whether he has a fish on the end of the line.
+It is too small to see.
+He is wearing a hat to keep the sun off of his face.
+That seems to be all I can tell.
+There is a flag in front of the house.
+",P8_Sentence1,control,Unknown
+P9,"It is a seashore with a house in front of the house.
+A boy is flying a kite.
+A dog is chasing him.
+Someone is fishing.
+And some people are having a picnic.
+One of them is reading.
+The other is pouring a liquid.
+There is a radio, a sailboat, tree.
+That is about as much as detail I can make out from here.
+",P9_Sentence1,control,Unknown
+P104,"Looks like a sort of a beach house or.
+Family is having lunch.
+Grandpa is fishing.
+The kid is running his kite.
+The daughter is playing in the sand.
+So it is a resort residence with folks having fun on vacation.
+Papa is taking his shoes off.
+Mama still got hers on.
+Grandpa has got a fish.
+There is other folks out in the boat.
+So as I said it is a fresh water creational thing during holiday.
+",P104_Sentence1,svPPA,control
+P65,"Picnic.
+Good day.
+Most people fishing.
+Dog.
+Kite.
+Stuff like that.
+Boat.
+Making a sandcastle.
+Making a sandcastle, definitely.
+Music.
+The man is reading a book.
+The woman is a glass of wine, maybe.
+",P65_Sentence1,nfvPPA,svPPA
+P73,"A number of people are enjoying themselves near the water.
+We see them doing different things, boating, fishing, playing in the sand, playing with their dog while they are doing a kite and having a wonderful lunch together.
+Listening to the radio, reading a book having a drink next to the container, food.
+And it is all being done by a house, with a big tree in front of it near the water with a flag and a car in front.
+A castle.
+That is how long it takes to come to the word.
+",P73_Sentence1,svPPA,Unknown
+P71,"To me it looks more like a a pond.
+It looks like a family is having a picnic.
+With the mother, the father, the daughter the son is and the dog.
+The daughter is playing on the sand.
+The son is playing on a kite.
+And the father is reading.
+The mother is having some drinks.
+Looks like a fun day.
+",P71_Sentence1,lvPPA,control
+P59,"Sailing the boat is on the sea.
+The boy is flying the kite.
+The man and a woman are going on picnic.
+She is a wine into the glass.
+The man is reading a book.
+The radio is FM maybe the WBOC classical station.
+The car is parking on the driveway.
+The fisherman is pulling the fish out of the water.
+The girl is sanding the castle.
+The dog is running with boy.
+The shoreline is on the sea.
+The fisherman is on the deck.
+The house is looking at the ocean.
+The tree is about maple tree.
+The clouds are on the ocean horizon.
+The shrubs are next to the sea.
+The sandals are off of the man's foot.
+The bucket and the shovel are on the sand.
+The evergreen is next to the door.
+I think those flowers and shrubs are next to the door.
+The grass is on the landscape.
+The bike is on the grass.
+",P59_Sentence1,nfvPPA,Unknown
+P98,"The boy is flying a kite.
+There is water in the sailboat.
+The the picture is boy and girl eating a picnic.
+The dog is running by whenever.
+The boy, the guy, is fishing.
+The garage is going in to the house.
+She is building a castle.
+",P98_Sentence1,nfvPPA,control
+P67,"Woman is giving a picnic, pouring some wine or something.
+There is man reading a book.
+There is a boy right behind a girl flying a kite with a dog behind it.
+There is girl.
+A sand box or not sand box.
+A girl in the sand.
+There is fisherman fishing.
+There is people in the boat.
+A lady pouring wine is staying on the rug.
+She kneeling on the rug.
+The sandals are off.
+",P67_Sentence1,nfvPPA,control
+P106,"It looks like they are having a picnic.
+It may be right outside their house.
+There is water there.
+There people are fishing there.
+There is someone in the boat.
+He is flying I cannot think of that.
+There is a dog that is running with him.
+There is a little girl making something in the sand.
+The father is reading while she's getting lunch ready.
+She is pouring some sort of drink into a mug.
+Must be their food in that basket.
+Her shoes are over here.
+There is a radio.
+There is a car and a house and shrubs.
+I do not know if there's grass over here and any sand on the other side.
+There is water.
+There is a tree.
+",P106_Sentence1,lvPPA,Unknown
+P105,"Yeah there is a dog chasing a boy.
+There is a lot of stuff going on in the picture.
+There is a fisherman catching a fish.
+There is a girl building a sandcastle.
+There is a couple having some wine and picnicking.
+There is a car and a house and the tree.
+A person, a little boy, flying a kite with a dog chasing him.
+",P105_Sentence1,lvPPA,Unknown
+P111,"Painting.
+Fishing kites.
+Kite playing and sailing and beaching.
+Picnicking.
+The fisherman catching a fish.
+The dog is running after the dog.
+I hope she is not listening to the radio.
+I blame him for reading.
+He should be more into what his kids are doing.
+",P111_Sentence1,nfvPPA,control
+P58,"I am looking at a picture of a lot of different people doing activities outside.
+There is a couple sitting on a rug with a picnic.
+She is pouring something out of a bottle.
+He is reading a book.
+There is a little boy who is running with a kite.
+His dog is running with him.
+Further down, there is a seashore.
+A woman there is sitting in the sand and building a castle.
+A man is on a small pier fishing.
+He has just caught a fish.
+He is bringing it out of the water.
+Farther out of the water there is a sailboat with looks like a couple of people in it.
+There is a house in the background with a large tree in the front yard and some small shrubs and a car sitting in the driveway.
+There is a flag on the flagpole.
+You can see it is waving in the wind.
+In the distance, there is a background looks like maybe trees or woods or something.
+Up in the front, back to the people on the rug, they have the picnic basket.
+They have a little radio.
+A woman is pouring something out of a bottle into a glass.
+The man is taking his shoes off.
+The boy is wearing shorts.
+The girl down the beach has a ponytail.
+She also has a pail and a shovel.
+The man with a fishing pole is wearing a hat.
+",P58_Sentence1,control,Unknown
+P64,"Well,people are having a picnic.
+The boy is flying a kite.
+There is a home over there with a car in the garage or in the driveway.
+Sailboat.
+Man fishing.
+Another girl playing on the beach.
+It seems to be a sandcastle.
+A kite.
+",P64_Sentence1,nfvPPA,control
+P70,"They are reading the book.
+Radio and sandals.
+Dog.
+Is flying the kite.
+The daughter is sand.
+Base fish on the dock.
+The 470.
+Sailboat.
+Clouds the fly.
+The car.
+Tree.
+A house.
+Bottle.
+Woman bottle.
+A dog.
+A radio.
+Car.
+The man woman girls and dog.
+",P70_Sentence1,nfvPPA,control
+P112,"What is going on in this picture?
+OK someone is exercising, running with the doggy.
+Is that one fishing?
+That one cooking.
+That one reading.
+That one cooking.
+That is their home.
+They are near a river.
+So they could be fishing.
+They are fishing.
+That is nice.
+That is a nice exercise with the doggy.
+Doggies are very good exercise.
+Nice nice boat.
+That would be good for you too.
+You could go on the river and go.
+If you go down the Cape, that would be good for you.
+If you had a nice car, that would be good for you.
+",P112_Sentence1,svPPA,Unknown
+P110,"This is a beautiful.
+Maybe someone lives at the lake.
+Maybe some people get to do vacation at a lake if it's a lake.
+Who knows if it looks like a lake and how the parents are.
+Maybe it is the father is reading the book.
+The mother, wife, is maybe drinking some wine?
+They have some music.
+The father has his shoes off.
+Someone has a home right there.
+If these are their children.
+One of the sons the dog is following them.
+He has got a kite.
+If it is his sister just at the the beach or the sand making up a probably whatever you would call that.
+I am not getting that word.
+I would know.
+I will remember that one sometime.
+Whoever, maybe the grandfather, he is fishing.
+Someone has got the boat.
+That is good enough?
+",P110_Sentence1,svPPA,svPPA
+P129,"Two people, a man and a woman, are sitting there.
+They are drinking some cola.
+You got a radio.
+The man has his shoes off.
+The man is reading.
+The boy here is carrying a kite, flying it.
+The nice dog going with him.
+Her daughter, other kid, is making a something up on top of this, a stump of a tree, and using the sand with a shovel and a bucket.
+And there is a nice house, with a car with out in front of it and has a nice tree in front of it.
+There is a nice sailor car or boat.
+There is a man out in a short place.
+A man is sitting out there, trying to catch a.
+Like he has caught a fish.
+There is a place by the house.
+There is a flag and a automobile in front of the place where they go into the car there.
+The the man is wearing his glasses.
+There is no food showing out.
+",P129_Sentence1,lvPPA,nfvPPA
+P128,"There is two people sitting here getting ready to do some eating, reading.
+That is a dog.
+Is that the ocean?
+I actually went through this picture with doctor.
+He catching something.
+He has got that up in the air.
+See I cannot name it.
+That is a part of a house.
+That might be where they live inside.
+The car goes in.
+See I cannot name that.
+A tree.
+",P128_Sentence1,svPPA,svPPA
+P100,"There we are right?
+Right on the south river here?
+They are having a a picnic.
+No it cannot be a picnic.
+Somebody has to own that.
+That is got to be a private property.
+That would be my guess.
+A boy and a boy and a girl a fisherman.
+Only one dog.
+We have got four.
+Sailboat.
+Do I just keep speaking?
+Somebody is in the house.
+So they own that house.
+I do not know what else to say here.
+The little girl, the younger girl, she is building a sandcastle by herself.
+He has got a kite.
+Most frustrating thing of all is that I hid for a long time.
+I am pretty good at those kinds of things but.
+There is nothing.
+It is nothing that I miss.
+",P100_Sentence1,lvPPA,nfvPPA
+P115,"Let us start with the kite.
+It is going down to the water and over it.
+There are children on the beach.
+You have got a fishman on the raf.
+A dog chasing the kid with the flag.
+That must be mother and dad having lunch.
+They are having a picnic.
+They that house is lovely.
+You have got shovels uh on pix.
+You have got sneakers.
+These are sandals.
+You have got music and food and water and a flag.
+A car waiting to drive home.
+And there is a nice sailboat.
+My cousin and I used to sail a small.
+This is a fisherman here.
+He is trying to pull a fish.
+",P115_Sentence1,lvPPA,Unknown
+P114,"Beach.
+Stain.
+Water enjoying.
+Ducks Pet.
+Lights.
+Pet fly kite.
+Sister.
+I don't know him.
+Simple.
+I love the style.
+Relax.
+Camp ball.
+Read book.
+I have trouble reading.
+I bought a tape.
+",P114_Sentence1,nfvPPA,Unknown
+P101,"It is a boy on a picnic holding a kite up in the air.
+He is followed by his dog.
+There apparently is a family involved.
+One of the family is fishing.
+He has caught a fish.
+The other sister is making a sandcastle on the beach.
+Off in the distance you see a sailboat with 470 on the sail.
+It must be a vacation time.
+The house is located on the point.
+A flag is blowing from the shore to the ocean.
+A car is placed at the garage.
+Because they are all having a picnic.
+The wife is getting something to drink which is looks like a wine.
+She is listening to a radio.
+The husband is reading the book.
+",P101_Sentence1,nfvPPA,Unknown
+P75,"It looks like a family have take have a house that is near the water.
+The the mother and the father are taking it easy and letting the kids.
+I cannot think of that thing that goes up high.
+They take it and move it.
+There is a single boat out there.
+I cannot quite see what that is.
+I think a little girl is playing with what is on the water, sand.
+She is having fun in the sand.
+There is a guy fishing.
+There is a fellow that is fishing.
+It looks like that there could be some rain up here.
+I am not sure about that.
+Because the automobile is there.
+And I think we have gone through this.
+He is reading.
+She is probably leaking something it looks like.
+And that is something like that.
+",P75_Sentence1,lvPPA,nfvPPA
+P102,"There is a tree, a house, a car.
+Bushes all around the house.
+I know that.
+But a dog.
+A girl doing something with the stand.
+Then over here boy and a girl are having a canoe.
+Not a canoe.
+See?
+It is a lunch basket.
+That is a.
+See?
+I know what it.
+I know what.
+I did not even see that.
+Man.
+Oh man.
+Let us see what do we have.
+Looks like it is a policeman.
+",P102_Sentence1,lvPPA,Unknown
+P77,"They having a picnic sort.
+Boy and the girl, man and the wife, whatever.
+There comes I do not know must it is their child.
+Running boy is running with the kite.
+The dog is following him.
+In the back side there is a man fishing.
+And this is little little girl down here I guess, a little girl.
+My glasses I have not got yeah.
+Playing with the sand making a sand.
+I trying to think of the name.
+I have been on them.
+I know them.
+But I cannot it.
+Sailboat.
+There, takes me a while sometimes to get a uhh.
+They look like they are having a pretty good time.
+It want to say what other.
+There is a car there.
+There is a flag there.
+A kite.
+Sandals.
+Reading a book.
+She is pouring soda or something liquids.
+They are by the ocean.
+",P77_Sentence1,lvPPA,nfvPPA
+P63,"The kid is flying a kite.
+There is a sailboat.
+The girl is building a sandcastle.
+Man is fishing.
+There is car in driveway.
+The dog is following the boy.
+The flag is blowing in the wind.
+Boat.
+He caught a fish.
+The car in a driveway.
+She is on the blanket.
+There is a radio.
+Reading a book.
+The dog is following the boy.
+",P63_Sentence1,nfvPPA,control
+P116,"It is a bit unusual and unlikely event.
+A couple having a picnic right in front of a house.
+I would not do that.
+I flew a kite and sailed in my youth and fished in my youth.
+I did not build sandcastles.
+I have a great love for dogs.
+It better be Pellegrino and not beer.
+Probably consumed the boombox.
+Is what.
+I do not own a boombox.
+I would hate to partake a picnic for these two people with their boombox.
+",P116_Sentence1,nfvPPA,control
+P88,"I came out and put on these and run around.
+I like to run.
+I see the car.
+They are over there is going to put up and have a party uhh.
+It is a child getting water.
+She is going to making something nice.
+That is my father.
+He goes everywhere on that one.
+That is a lot of people like to go out on those.
+",P88_Sentence1,lvPPA,Unknown
+P49,"We are looking at the scene of a family picnic beside the lake.
+In the foreground there is a blanket spread on the grass.
+Two people assuming there is a father and a mother sitting on the blanket.
+The father is engrossed in reading a book.
+He is wearing glasses.
+He sits there wearing a tshirt, a pair of long pants, but his sandals off.
+His sandals are placed to the side of him at the edge of the blanket.
+The mother is wearing a sleeveless tshirt and appears to be pouring something from a bottle into a glass.
+She is also wearing shorts and a pair of tennis shoes.
+Sitting next to her, on the blanket is a radio.
+There is a hamper occupying the middle space of the blanket.
+In the background there is one we call him grandfather who appears to be fishing and has actually caught a fish off the end of a short dock.
+The house appears to be one story, rather small.
+It is got a car parked in front of it.
+One would assume it is a garage.
+In front of it, there is a large tree whose size extends above the roof of the house by 50 percent.
+There is a boy flying a kite just by the end of the picnic blanket.
+He is being chased by his dog.
+His kite appears to be flying above 50 feet up in the air.
+His sister is to the left of him on the beach building a sandcastle.
+She has with her a small shovel and a pail.
+She is just in a sleeveless tshirt and a pair of shorts with no shoes.
+She is now working on the top of the castle shaping a tower it appears.
+Her hair is in ponytail.
+In the background there is a small sailing boat going across the lake.
+In the far distance there is a tree line on the other side of the lake.
+There is a small road or lane that goes in the garage of the house curves around and beside the blanket.
+The dog is wearing a dog tag.
+He is licensed.
+He appears happy.
+His tongue is hanging out.
+",P49_Sentence1,control,Unknown
+P61,"The man is reading the book.
+The woman pouring a drink for herself.
+The boy is following the kite.
+The doggy is running after the boy.
+The girl is playing in the sand.
+The sailing of boat.
+",P61_Sentence1,nfvPPA,control
+P76,"Looks like a family is picnic.
+Looks like some people are doing different things.
+The boy has a kite out there.
+There is he has a dog also there.
+There was boat.
+There were some people in the boat.
+Also you can look like it was kind of their own house sitting out there.
+Looks like they are all having a good time.
+Everybody has shoes off.
+Everybody is relaxed and having a nice time.
+It was really nice day.
+The there is a car in by the door.
+So that sort of makes sense there.
+And, anyway, there package out there.
+All kids were having a good time.
+There was a boy.
+There was a girl.
+The girl was making a little castle.
+There was somebody else porch like that.
+He was getting fish.
+He got one.
+There is a big flag.
+Must be something like holiday.
+Looks like everybody was doing different things.
+It is kind of unusual.
+Because lots of times when people get together, they all do the same thing.
+In this family they are all doing kinds of different things.
+Look like they are all having a good time.
+",P76_Sentence1,lvPPA,Unknown
+P62,"We have the boy is flying a kite.
+The father looks like he's reading something.
+The mother is listening to music and is pouring, I would say wine, into the thing.
+I think his shoes are down here.
+There is a dog running.
+A sailboat, a fisherman.
+A flag.
+A house, a car, a tree.
+A girl is doing something here with sand it looks like.
+She has a bucket and a spade.
+",P62_Sentence1,lvPPA,control
+P66,"They are at the lake or beach.
+Somebody is fishing.
+Somebody is building a sandcastle.
+Boy is taking a kite.
+The dog is running next to him.
+Their mom and dad are having a picnic.
+The sailboat over there.
+The house and the tree.
+Dad is reading a book.
+Mom is pouring a juice or drink.
+They are listening to radio.
+",P66_Sentence1,nfvPPA,control
+P72,"It looks like picnic.
+Boy flying a kite.
+A man fishing.
+A man reading.
+Building sandcastles.
+A sailboat.
+A house.
+A flag.
+A dog.
+",P72_Sentence1,nfvPPA,control
+P89,"Family picnic.
+Father is reading.
+Mother is pouring drinks.
+Boy and girl are doing themselves.
+An dog is chasing ice.
+I used to sail.
+My father was a sailmaker.
+Their house is on the water.
+I do not know whether uhh.
+",P89_Sentence1,nfvPPA,Unknown
+P103,"The first thing is there is a house here with a car.
+Over here, there is put down there.
+You can read.
+You can have this time would be.
+I am going to say a soda.
+Might not be.
+Down there, we have a a very small thing.
+Not very small but fairly reasonably that one with with flowers not flowers.
+I am losing that one.
+It is not a flower.
+It is the music.
+Of course there are children there.
+That backside all the way across a dog, a child, an older child up there.
+Then right hand side in water over there just going across.
+We have a 470 on that with lots of things to do.
+We also of course have sand.
+And uh making that right there along the side.
+Anything else to that?
+He has got that on the hand.
+Then he is putting out the floss.
+I want to say the floss.
+It is not the floss.
+And taking that up there.
+Then you are using your hands and moving that to go up or down.
+So usually you get it up there.
+And  if it starts to get slower, I usually take something like that and pull it and see when it comes down or come back a little bit.
+Just uh I do not want to take it down totally.
+I just want to make sure that I am putting something in.
+Now this was a fisherman.
+That is where he is there.
+It looks like he is going to have a fish.
+",P103_Sentence1,lvPPA,Unknown
+P29,"There is a picture of a house with a great big tree out front and a car parked in the driveway.
+Out in the yard, there is a couple, having a picnic.
+They have a basket, books, wine and it looks like a pair of sandals.
+There is also a dog running, chasing a boy who is flying a kite.
+This appears to be near a body of water.
+Because there is a man in the back ground fishing.
+There is also a girl playing in the sand.
+I see a sailboat out in the bay, harbor area with someone waving.
+",P29_Sentence1,control,Unknown
+P39,"There is a family who is enjoying a very clear day at the beach or at a lake.
+The son is flying a kite followed by a pet dog.
+The dad is reading a book.
+Mom is pouring some kind of a drink from the picnic basket.
+There is a daughter on the beach.
+She is constructing a sandcastle.
+On a pier, there is somebody fishing.
+He has caught a fish by the lake.
+Two people actually are sailing.
+The wind is blowing.
+There is a garage.
+",P39_Sentence1,control,Unknown
+P15,"It is kind of like an idyllic scene.
+It looks like there is a kind of an inlet.
+There is a house and a car parked.
+Maybe the occupants of the house decided to have a picnic closer to the water is edge.
+There is a boy with a kite flying a kite.
+His dog is chasing after him and the kite.
+There is a man fishing I am going to say an inlet as opposed to lake.
+There is a girl making something out of sand.
+She has a bathing suit on.
+The man just caught a fish.
+The man who is fishing on the dock, just caught a fish.
+",P15_Sentence1,control,Unknown
+P12,"I see a family having a picnic.
+The father is reading a book.
+The mother is preparing a drink for someone out of their picnic basket.
+A son that is trying to fly a kite with the family dog at the side following him as he is trying to get the kite to the horizon in the air.
+There is somebody at the beach.
+I do not know if that is part of the family.
+They have got a shovel and a pail.
+There is a fisherman in the lake.
+It does not look like an ocean.
+There is a sailboat out on the water.
+Then on the inland, there is a house with a nice tree around it and a car in front of a garage.
+The background is like a road.
+There is a flag at one corner of the house.
+It is hard to tell if that road extends further or that is like a deadend.
+It could even be a deadend.
+There is some shoes on the blankets.
+So those are the main things that I see.
+",P12_Sentence1,control,Unknown
+P10,"There is a family apparently not far from their own home enjoying apparently what looks like to be a picnic.
+Mom is pouring a glass of wine maybe.
+The kids are doing normal outside activities.
+Boy is flying a kite.
+Little girl is building sandcastles.
+It looks like to be even on the Cape somewhere.
+What else.
+Father is reading a book not paying attention to the kids.
+There is a man in the distance fishing.
+There is a sailboat.
+I guess there is a little forest opposite side of the lake.
+A dog.
+",P10_Sentence1,control,control
+P11,"I see a boy trying to pull a kite and create some of his own wind.
+Looks like a little girl playing with a sandpile and building a castle.
+A man fishing and pulling a fish.
+There is a boat that does not look like very real.
+It is not over here.
+It should be if it is in the wind.
+A car that is parked outside the garage instead of inside.
+She is pouring something that looks to be a glass of wine.
+He is reading a book.
+They are listening to Beethoven probably.
+They have their.
+He has his shoes off.
+She has her shoes on.
+They are sitting on a carpet.
+That grass is pretty spotty.
+I would have to watch out for the animals.
+Especially if there is a dog there.
+They are not always that careful.
+The old man is on the dock.
+He is fishing.
+It is on a seashore.
+It looks like there is trees in the background.
+There is one tree in front of the house.
+The house is single gable, first floor.
+That is all I see.
+",P11_Sentence1,control,Unknown
+P38,"There is a lot going on in this picture.
+In the lower left of the picture looks like two people, a man and a woman, are having a picnic.
+Looks like she is pouring a glass of water or something.
+He is reading a book.
+They have a radio nearby.
+A little further back, into the left back of the picture, you can see a house and a car.
+There is a tree also there in front of the house.
+A little driveway is going there.
+That driveway comes out closest to where the people are having the picnic.
+They also have a flag, near their house whoever's house this is I am not sure.
+It may or may not be the people who are doing the picnicking.
+Next to the picnickers there is a boy with a kite.
+He has the kite and the kite is up in the air.
+He has a dog with him.
+Looks like they are running along getting the kite up into the air.
+Behind the boy there is a lake.
+There is a man who looks like he is fishing at the lake.
+",P38_Sentence1,control,Unknown
+P60,"It looks like people are having some dinner on the outside.
+A little boy is running with a dog chasing him.
+Somebody is fishing.
+Somebody is going out in the boat.
+This person is sitting there doing things.
+Kneeling there.
+They are making foods for themselves I think, to eat and sit down.
+I said he is running with this on.
+That dog.
+He is running with this high up.
+He is pulling it.
+The dog is running after him too, or running with him.
+She is pouring some water in here for them to drink.
+That is it.
+",P60_Sentence1,svPPA,control
+P48,"What makes me I think a place maybe where somebody goes in the summer.
+Either they rent or own this house that is right here.
+So it looks like maybe it is a mom and a dad and their kids potentially.
+That could be.
+So they are sitting right there.
+She is playing something with it for maybe some water or something.
+He is reading an item.
+Oh so this boy is carrying something I cannot tell you what the word is.
+I have seen those all my life.
+That guy is carrying that thing while walking around.
+It is going up high.
+There is a dog right behind him.
+This guy is definitely in the.
+I always have trouble by the way saying.
+Because this is water.
+There is another word of what it is called.
+Whenever anyone goes and even goes swimming in a place or something.
+I always just call it water.
+I never know what to call it.
+So this guy is on something there.
+Holding something also, this guy.
+By the way on a side note, I am able to sort of describe what they are doing and where they are.
+I have the biggest problem of saying for you by the way the simple words of what things are.
+As a great example here somebody is house.
+As simple word of what another word for just house of what that is there.
+I cannot say the simple word.
+That is my problem.
+I think you asked me to say things about it.
+A great example, I cannot say what that is.
+Although I always understand what they are.
+I just cannot say the word.
+That is my particular unique problem.
+So this item which is in the water, whatever that section is called, this one does drive all the way through whatever.
+So I know what that is but I cannot say what the word is.
+That is a common place I am sure.
+I am trying to see what this girl is doing.
+She is holding something.
+I do not know what that is.
+She is sitting down there and playing and holding that little thing also.
+So that is the group.
+",P48_Sentence1,svPPA,lvPPA
+P74,"I do not know what they are doing there.
+This is a house.
+He is walking a dog.
+It is right in the water.
+It must be a camp.
+They must be drinking beer.
+He is reading.
+Love dogs.
+Shoes.
+That is not really called the boat.
+That is I do not know.
+That is a dog.
+A car.
+I think she is playing.
+I do not know what she is putting in that thing.
+Unless she is taking something out.
+He is catching fishes.
+I hate fish.
+I do not eat fish.
+My husband eats salmon all the time.
+It stinks and smells.
+Of course he says drink some more.
+That will be good for you.
+Not drink, eat.
+He also says drink some more water.
+So I try to drink a lot of water.
+",P74_Sentence1,svPPA,Unknown
+P13,"Mother and father took the son and daughter and dog to the beach.
+They are fixing lunch.
+The dog is running with the boy.
+The girl is putting the sand together to build up the sand.
+I do not know whether that fisherman is related or not.
+He is fishing.
+You know I do not know whether they live in that house or not or whether they just.
+They may live in that maybe their house.
+They are on the beach over the water.
+What I cannot remember what that is.
+He is flying it.
+There is a sailboat, flag, car, house, basket.
+It is the radio, book.
+I do not know what she is pouring into there, soda?
+This is not sneakers not shoes.
+They are not sneakers or shoes.
+I forget what they are.
+I have them.
+But I forget what they are.
+",P13_Sentence1,svPPA,lvPPA
+P26,"I see a young man flying a kite.
+There is a dog running beside him, possibly a labrador.
+I see a girl playing the sand next to a shovel.
+I see a sailboat on a lake surrounded by some trees.
+The sailboat has a number on it.
+It looks like 470.
+There seem to be two people on the boat.
+There is a small house with a flag flying in front, a car parked in the driveway with a large tree in the yard.
+There is a window in front.
+There is bushes beside the house and in front of the house.
+The driveway lines around the yard.
+There is a couple having a picnic.
+She is pouring wine into a glass.
+There is a picnic basket.
+Her sandals are off.
+Her husband or boyfriend or male friend are sitting on the blanket.
+He is reading a book.
+He is wearing glasses, a shortsleeve tshirt and shorts.
+She is wearing shorts in a sleeveless blouse.
+There is also a radio next to her, apparently a radio or also a cassetteplayer possibly.
+It seems to be weather wise a nice day outside.
+A lot of outdoor activity.
+Also a deck that a man is walking out on a pier with the fishing pole.
+There is a fish on the line.
+",P26_Sentence1,control,Unknown
+P14,"It looks like a family is gone to a lake and on a picnic.
+The little girl is there on the sand building sandcastles.
+The boy is flying a kite playing with his puppy dog running beside him.
+The mother starts to pour drinks for everybody.
+She has got a radio with some music playing.
+Dad is sitting there reading a book.
+He got his shoes off relaxing and enjoying the day.
+Close to them, there is a cottage on the lake where the fellow who owns the cottage is out there fishing off of his dock.
+Way out in the distance is a sailboat cruising down the lake.
+",P14_Sentence1,control,control
+P17,"Two people have gone out and decided to have a picnic.
+One of them is reading his book.
+The other one is unwrapping a sandwich I think.
+It is a lovely day.
+There is a lovely house, lovely scenery, a tree in the background with a lovely house.
+They are also on some kind of lake with a sailboat.
+Another younger person, a boy, is flying a kite and having fun with his dog.
+In the background, we also have someone in there.
+Looks like they are on a fishing boat out fishing.
+",P17_Sentence1,control,control
+P16,"It is a sunny day , little bit windy.
+It is probably late spring or summer.
+Tree is in full bloom.
+There is a house with a car on the driveway.
+On the grass on the other side of the driveway is an adult man and woman who are having a picnic.
+Man is wearing glasses and reading a book with his legs crossed.
+There is a picnic basket in front the woman who is kneeling.
+She is pouring a liquid into a cup.
+To her left side is that a radio?
+Looks like an old fashioned radio.
+There is a nice dog running after a young boy who is flying a kite which is up in the sky.
+There is a flagpole by the house at the side of the house.
+They are by a lake.
+On the other side of the path where the boy and the dog are running and enjoying themselves, there is another person.
+There is a pail.
+Though it must be a shovel.
+She must be playing in the sand, building I cannot see.
+There is also a fisherman who is standing on a pier and has his broad string out in the water.
+It looks like there is a fish right at the end.
+It is wiggling around.
+",P16_Sentence1,control,Unknown
+P32,"It looks like a nice house on the beach.
+There is a sailboat on the water.
+There is a boy with a dog chasing him flying a kite.
+There is a man who just caught a fish.
+There is a nice little house in Cape Cod.
+There is a little girl making a sandcastle I guess.
+It looks like parents are having a picnic, pouring some wine for themselves.
+While the man is reading a book.
+They are listening to music sitting on a blanket in a grass.
+There is a big flagpole next to the house with the car parked in the driveway.
+",P32_Sentence1,control,control
+P28,"In this picnic there is a family having a picnic by the lake.
+There are two kids probably belonging to the same family.
+One of them is flying a kite.
+The other one is actually making a sandcastle.
+On the shore the mother is serving some wine or refreshment, serving herself I guess, listening to the radio.
+The father is reading a book.
+They seem to be very relaxed.
+There is also someone fishing.
+He actually got a fish.
+Some people have a sailing boat.
+Everybody seems to be having a good time including the dog which is running happily behind the boy with the kite.
+There are no clouds, no storms.
+It seems to be a sunny, peaceful day.
+Nearby there is a house with a tree in the front and a car parked near the garage.
+There is also a flag nearby and some bushes behind the house and some small ones in front of the house too.
+The kids are laughing.
+The mother seems to be happy.
+I assume that is the mother.
+I am not sure about that.
+The father seems to be happy too.
+He is very concentrated on the book.
+",P28_Sentence1,control,Unknown
+P23,"In the picture there is a man and a woman having a picnic.
+Young boy running with his dog flying a kite.
+Out in the lake, there is a man on the dock of the Lake catching a fish.
+There is a young woman or a child building a sandcastle.
+She is kneeling next to her sandcastle.
+She has a shovel in a bucket.
+There is a house nearby with a car in the driveway.
+They have a flag with a flagpole in their yard.
+The couple that is having the picnic, the man was wearing glasses and has taken off his sandals and is reading a book with no words in it.
+The woman that is kneeling next to a picnic basket is pouring out of a bottle into a cup.
+She is sitting next to a radio.
+A little radio that you would carry around.
+You can not tell if it is a sunny day or not.
+There is no showing of a sun or anything.
+It seems that there is grass right next to the sandy area of the beach.
+There is a driveway that is on the other side away from the edge of the lake.
+That is a driveway that goes to the house.
+The house itself has two windows showing one door and a garage door that you cannot tell if it is opened or closed.
+There are a lot of trees in the distance of the lake on the other side of the lake.
+There is a number on the sale of the boat that says 470.
+There are two people inside the sailboat.
+There are two sails on the sailboat as well.
+",P23_Sentence1,control,Unknown
+P21,"So there is a sailboat out on the lake.
+There is a car parked on a driveway at a house.
+There are two people sitting on the blanket having some wine.
+The man is reading a book.
+The woman is pouring the wine.
+Probably those are their children playing behind them.
+The little boy is flying a kite with a little dog running after him.
+Then there is a little girl building a sandcastle down on the beach.
+She has got a shovel and a pail.
+She has got a nice sandcastle being built.
+The grandpa is over on the dock fishing.
+It looks like he caught a fish.
+So it looks like a very happy and unrealistic picture.
+",P21_Sentence1,control,control
+P37,"We are having a picnic.
+Child flying a kite.
+Mother and father adults are having a picnic on blanket.
+Father is reading a book.
+Mother is pouring herself a bottle of wine.
+Probably she is interested in getting drunk more than having a picnic.
+Looks like there is a radio on the blanket, and a picnic basket.
+She has got her shoes off.
+Both, father has got his shoes off.
+Wife has got her shoes on definitely more interested in drinking.
+We also have in the background a man on the dock fishing.
+He has got himself something of some sort hanging on the line, wiggling about.
+The child is running with his kite.
+The dog is chasing the child with the kite.
+We have in the background a woman making a sandcastle on the beach.
+We have a sailboat in background in the water.
+A small house also off to the left on land of course, not in the water.
+We have a car in the driveway.
+We have tree in the front yard and several other trees behind it around the house.
+",P37_Sentence1,control,Unknown
+P18,"A family is having a picnic.
+The mother and father are sitting on a blanket having drink, maybe a wine.
+The boy is flying a kite in front of them.
+They have a family dog who is running along with the boy.
+There is a little girl building a sandcastle.
+This is at by the water.
+This is sailboat in the background.
+There seems to be somebody fishing on a pier too.
+So it is just an oceanside scene, or a seaside scene anyway.
+It looks like that there is a house either a family house or it is a rental house, vacation house, I do not know.
+It looks like a nice family day.
+",P18_Sentence1,control,Unknown
+P30,"This is a picture of a rental vacation possibly.
+There are vacationers sailing, fishing, playing on the beach and picnicking.
+",P30_Sentence1,control,control
+P35,"There is a guy and a gal sitting on a blanket having a picnic outside.
+The man, or the guy, is reading a book.
+She is pouring looks like wine or sparkling water into a cup.
+There is a guy, a boy, running a kite behind the girl.
+There is a dog and a boat.
+Someone is building a sandcastle.
+There is someone fishing.
+There is a car in front of the house.
+That is about it I guess.
+",P35_Sentence1,control,Unknown
+P34,"In this picture, there is a family who have a house that is on a lake.
+On the lake, there is a man fishing.
+There are people boating in a sailboat that has the number 470 on it.
+The house has a one park garage.
+It has a tree in front of the house.
+There is a man and a woman having a picnic, sitting on a blanket.
+The man is reading a book.
+The woman is pouring a glass of wine.
+They are listening to a radio and relaxing.
+There is a boy flying a kite.
+A dog is chasing after the boy, not trying to bite him or anything just chasing along with him.
+There is a girl building a sandcastle.
+She has buckets and shovels.
+She is playing in the sand.
+The fisher jumping.
+The man who is fishing is catching a fish.
+So that is pretty exciting.
+They seem to be on a lake.
+I cannot tell if it is a sunny day or a cloudy day.
+I am guessing that is awfully nice day.
+Because they are having a wonderful picnic, enjoying the beach, enjoying the area.
+There is a car parked in the driveway in front of the garage.
+The house has couple of windows.
+It is a small house.
+The tree is full of leaves.
+It is nice and big and shady.
+They are not under the tree.
+They are out in the open field.
+So maybe it is not too hot.
+The water looks calm.
+They have docks.
+So I imagine sometimes children go swimming in the lake as well as fishing.
+In all they are just having this really nice summer afternoon having a good time.
+",P34_Sentence1,control,Unknown
+P24,"We see a scene of probably a lake, possibly an ocean.
+There is a small sailboat out in the lake.
+What we mainly see is a family.
+We see the mom and dad on a picnic blanket with a picnic basket.
+Mom appears to be pouring some wine.
+There is some kind of cup.
+Dad has his sandals off.
+There is a small boombox next to them perhaps playing some other favorite tunes.
+Two immediate members of the family.
+I see a girl in a very small beach making a sandcastle.
+There is a bucket and a shovel there that she is apparently been using to make her castle.
+In the foreground, we have the son flying a kite.
+He's running to keep it going.
+His dog is chasing along after him.
+Everyone is having a very good time.
+A little further away there is a small pier with a man with a hat on casting his line.
+He has caught a fish.
+He has just pulled it up.
+So he is probably pretty excited about that.
+Perhaps he is the granddad.
+We do not really know.
+In the background a little further, pretty near everything, is a nice house with a car in the driveway.
+There is a flagpole outside the house.
+The flag is flying.
+There is a fairly large tree pretty close to the house that is certainly taller than the what appears to be a one story house.
+So obviously the wind is blowing good enough for this young boy to fly his kite.
+It looks like a pretty idyllic scene, family having some good moments.
+The husband is reading a book.
+The mom appears to be doing mom things.
+Although I guess maybe she is earned a cup of wine which she is about to enjoy.
+I do not see a book for her.
+Maybe she just enjoys not having to take care of the kids for a minute.
+",P24_Sentence1,control,Unknown
+P20,"There is a couple having a picnic.
+It is summer afternoon.
+Their son is flying a kite.
+Their daughter is down on the beach.
+She is building a sandcastle.
+There is a man on the pier who is fishing or has just caught a fish.
+The wife is pouring a glass of wine.
+Her husband is reading a book.
+He has got his shoes off.
+He is relaxing.
+There is a boombox next to her that is playing music.
+Their home is just around the corner.
+Their house is in the front yard.
+There is a sailboat in the background sailing by them.
+",P20_Sentence1,control,control
+P25,"A family of a man and a woman, a young girl and a young boy, and their dog are near a lake or water.
+They are having a picnic.
+The woman is pouring a drink and has a picnic basket.
+Another man is over on a pier fishing.
+A dog is chasing a boy who is playing with kite.
+A little girl is making sandcastles.
+There is a boat down in the water.
+",P25_Sentence1,control,Unknown
+P31,"There is like a family.
+There could be a cottage in the background.
+There is a house with a car in the driveway.
+It looks like mom and dad are on the blanket with the picnic basket between them.
+Mom, looks like she is pouring a wine bottle into a glass.
+There is a radio next to them.
+The guy is reading a book and is wearing a glasses.
+There is a kid behind them running in the grass.
+A dog is behind him, running.
+Half the picture looks like a lake.
+There is a sailboat in the lake.
+There is a dock with a guy fishing off the end of the pier.
+And there is girl in the sand on the beach making a some kind of a sculpture.
+There is a shovel stuck in the sand and a pail near the shovel.
+There girl is about 8 to 10 years old.
+Mom and dad look like to be in their thirties.
+The picture is in black and white.
+It is a drawing.
+It is not a photograph.
+There is a big tree in front of the house.
+The house looks pretty small.
+You can see a big picture window on one side and just a couple of small windows one facing the road and one on the side.
+So the house does not look too big.
+So that is what makes me think it is probably a cottage.
+There is a flag in the yard between the house and the lake.
+I cannot really see what the flag says.
+It is just squiggly lines.
+There is a big shrub by the front door and some smaller shrubs around the house like what is proably the bed area.
+",P31_Sentence1,control,Unknown
+P19,"I see I am going to presume a mom and a dad.
+They took their children out to a beautiful spot on a lake.
+Look like they have got a picnic basket there.
+So they are going to have a picnic.
+The woman is pouring someone a cold drink.
+The man, or dad, is sitting there reading a book.
+He has got his sandals off.
+He is really relaxed.
+I see a young guy pulling a kite.
+A dog running with him.
+It looks like he is having a good time.
+I see a little girl on the beach.
+She is making kind of a sandcastle.
+I admire her for that.
+Because I cannot stand sand myself.
+I see a guy on the dock who is fishing.
+It looks like he got a fish wiggling on the end of his fishing line there.
+You know what maybe it is not a vacation.
+Maybe they live there.
+Because I see a house over a there with a car in the driveway.
+So It is either a rental or they live on the lake.
+Are not they lucky.
+Big beautiful tree in the front.
+I am sure it is a nice day.
+I see a sailboat out there kind of going down the lake.
+Off in the back I see trees.
+It just looks like they are having a good time.
+I wonder what is in the basket.
+Is that a radio on the front with a little antenna maybe?
+So maybe they are listening to some music.
+That is probably all I can say.
+",P19_Sentence1,control,Unknown
+P33,"There looks like a pier and a gentleman fishing.
+The dog is running by a little boy who is flying a kite.
+He is got it high.
+He is running along by the parents having the picnic.
+As I said the father is reading a book.
+There is a sailboat in the harbor.
+",P33_Sentence1,control,control
+P27,"In the picture we see a family outside of their home enjoying the day.
+Father is sitting outside, seeming to be enjoying the picnic and reading her book.
+While the mother is pouring a drink and enjoying listening to the radio.
+Father seems to have his shoes off.
+His wife seems to have her shoes on.
+There are also two kids in the picture.
+One is the son who is out running and flying a kite with their pet dog pursuing behind and chasing him.
+The daughter is on the beach front or lake's shore building a sandcastle with a bucket and a shovel.
+There also seems to be another person.
+I do not know who he is, a second son or a family member on the pier who is enjoying fishing.
+There is also another people on the lake who are enjoying sailboating and appear to be watching the family as they enjoy their time at home.
+They are living in a nice house at the lake.
+They have a flag out front of their house and one car parked in their garage.
+",P27_Sentence1,control,Unknown
+P91,"The picture is.
+The father and the father.
+The house.
+The dog is running.
+The boy flying his kite.
+The boy is.
+The girl has made a castle.
+Board is.
+Board is.
+That is the board.
+That is the car.
+The father is reading a book.
+",P91_Sentence1,nfvPPA,Unknown
+P131,"It is out in their front.
+Here is the water.
+Son is running with the dog.
+They are having a drink and reading a book.
+What is he doing?
+Is that their house and they are just out here.
+I cannot see you what exactly she is doing.
+She building something.
+I cannot see without my glasses what she is doing.
+Over water it is not a boat.
+He is running.
+See I know that when you say it.
+",P131_Sentence1,svPPA,Unknown
+P3,"Looks like a family has gone to a waterside kind of a little picnic.
+Mom and dad and the kid.
+They brought along the dog.
+Of course there is picnic blanket.
+Papa is catching up with some of his reading.
+Mom is pouring herself something to drink I guess.
+That looks like champagne or something.
+They had a little boombox with them.
+Son is flying his kite.
+They have the dog with them.
+They have a little daughter too.
+She is making a sandcastle.
+I do not know whose house.
+I do not think that is their house in the background.
+Because you do not take a picnic right next to your house usually.
+In the background there is someone sailing.
+There is a fellow fishing.
+He just yanked something up off of a dock.
+The breeze is blowing a little gently.
+As the kite, sailboat and flag in the background attest.
+That is pretty much what I can get out of it.
+",P3_Sentence1,control,Unknown
+P118,"Child is burning with a the kite and running slowly but getting there.
+There is a boat that is going by.
+Fish being caught on that.
+I do not know what you call that piece.
+The dog.
+I would assume it is the mother and dad and feet all the different things to eat.
+The house, car.
+The little girl playing in the.
+I am looking.
+I think I got most of.
+The large tree.
+I did not.
+I talked about the house.
+That has been.
+Mother has shoes on.
+So he would have sandals.
+Have music.
+I would say it is a radio.
+",P118_Sentence1,lvPPA,nfvPPA
+P119,"It is a picnic.
+The kids are playing.
+The girls are building a sandcastle.
+Something fishing.
+The boy is flying a kite.
+The parents are reading.
+He is reading and listen to radio.
+Then it looks like she is pouring wine or something.
+She has her shoes off.
+He has his shoes off.
+She has sneakers on.
+There are house and car and trees.
+They are in the sailboat.
+Two people are in sailboat.
+They are in lake I think.
+Sand.
+",P119_Sentence1,nfvPPA,Unknown
+P2,"So it is a beautiful scene by the water with people out sailing, people fishing, people at the beach making sandcastles.
+There is a house on the street across from the beach.
+It looks like some people are a family.
+A couple is having a nice picnic on a blanket.
+It must be the summer time.
+Because it looks like warm.
+They are wearing sandals and shorts and things.
+The gentleman is reading a book.
+The woman on blanket is pouring a drink.
+There is a kid nearby flying a kite with his dog following him.
+And it looks like the fisherman has just caught a fish who is on the dock up here that is in the water.
+I mean that is it.
+",P2_Sentence1,control,Unknown
+P93,"The boy is flying a kite.
+The older couple is picnicking with wine.
+The dog is following the kiteflyer.
+The old fellow is catching a fish.
+There is a sailboat.
+The sister of the fellow running with the kite is building a sandcastle.
+The waving of the sailboat.
+There are two people in the sailboat.
+The passenger is waving at the kite.
+The the old couple are listening to the radio and reading.
+The flag is flying.
+It must be windy.
+",P93_Sentence1,nfvPPA,control
+P50,"Having fun, really.
+A mother and father, two kids.
+Somebody over here fishing.
+A dog.
+Water is over here.
+A boat.
+A car, tree.
+A house.
+Because I never put those things in.
+I always put these in.
+Basket.
+It is probably.
+I do not know exactly what it is.
+It could be anything drinking.
+I do not know what it is.
+Might be beer.
+That would be mine.
+These making a uhh.
+Girls making one of these right up here.
+Flag, right here.
+She is bringing it up.
+",P50_Sentence1,lvPPA,svPPA
+P44,"I am looking at a picture.
+The picture is of an event outside.
+There is a house in the background.
+The house is situated on what appears to be a lake.
+There is a large tree in front of the house.
+There is smaller trees, rows of trees, at the back of the house.
+There is a what look to be a evergreen tree.
+It is a small one to the right side of the door.
+There are small bush, left and right of the door that proceed around to the side of the house.
+On the side of the house, I see one window, two panes.
+Outside of the house, there is a boy who is flying a kite.
+Behind the boy is a dog who is laughingly coming behind him.
+To the right of the boy, there is a man and woman who perched on a blanket.
+They have a picnic basket in front of them.
+The lady is just smiling that she is pouring herself a beverage.
+There is a radio also on the blanket.
+The blanket is laid to the side of the lake but in the grass.
+There is a sidewalk that run behind where they are sitting.
+On the lake, you will find the boat.
+On the sail of the boat, you will find the number 470.
+There are two people in the boat.
+Also on the lake, there is ramp that comes out that would be used to get yourself into the water if you had a boat.
+Instead of that, there is a guy who is standing on the ramp.
+He has caught himself a fish.
+One fish and only that.
+In the back of the lake, I see rows of trees.
+On the side of the lake, which could be sand or dirt, there is a young lady who seems to be building herself something.
+",P44_Sentence1,control,Unknown
+P46,"I am looking at a black and white picture of a summer scene.
+The scene is of a family on a picnic by a lake.
+On the lake there is a sailboat with the number 470 on the sail.
+There is also a pier from the shore into lake where a man looks like he has caught a fish.
+The man catching the fish is wearing a hat.
+Behind the man, is a house with a one car garage where the car is not in the garage.
+It is outside.
+In front of the house is a big tree full of leaves.
+Then around the perimeter of the house, there are some bushes.
+Right next to the house is a flag with the flag on a flagpole.
+In the foreground of the picture, you can see the family during their picnic .
+In this case, my father is reading a book sitting on a blanket.
+He has his sandals off.
+He is in his bare feet.
+The father also looks like he wears glasses.
+Also on the blanket with him is what appears to be the mother.
+She seems to be pouring something into a glass from a bottle.
+It could be wine.
+I am not sure.
+Underneath the glass is a picnic basket.
+Right next to her on the blanket is a portable radio with the antenna extended.
+Then behind her, between her and the shore, is it looks like the son who is running across the grass lawn pulling a kite behind him.
+The kite is up in the air.
+Chasing the boy is looks like a dog.
+Closer yet to the lake it looks like there is a small beach.
+It looks like a young girl who is probably his sister is building a sandcastle on the beach.
+She has a small shovel and a bucket that she looks like she is using to help build the sandcastle.
+That pretty much looks like it for the picture.
+",P46_Sentence1,control,Unknown
+P87,"The kid has got a kite.
+He is running around looking at everything.
+The little girl is in the thing in the sand.
+Guy is fishing.
+There is by the way with the the kite.
+There is a dog behind him.
+They are picnicking.
+What else we got going on here.
+There is a car parked at the house with a tree in front of it with a flag post along side of it.
+They are having a picnic going back and forth around.
+What else you want to know?
+He has a book.
+She is probably pouring some wine.
+He has his shoes off.
+She has hers on.
+That is a radio.
+You got me on this one a shovel and a bucket for sand.
+They and these are the fish on the end.
+I do not know what else you want to know.
+This is a little apartment a little house very small.
+It has a one car garage.
+",P87_Sentence1,lvPPA,nfvPPA
+P52,"It is probably the father and mother sitting right next to the pool or ocean.
+Children are running and doggy.
+A man has just caught a fish.
+So and there is a boat out there yeah.
+The woman is pouring some wine.
+The man is reading something.
+I do not know what that is called.
+My granddaughter likes to use that.
+",P52_Sentence1,svPPA,control
+P78,"That is a picture of one couple having lunch.
+Another one pulling a kite.
+A couple of more out on a sailboat.
+A fisherman.
+Maybe somebody has driven up to that house in a car.
+That person I do not know what's she putting on there something.
+That is about it right?
+That is a radio.
+There is slippers.
+I do not know why that is 470.
+Maybe that is right.
+That is all I see I think.
+",P78_Sentence1,svPPA,control
+P85,"The flying of the kite.
+The dog is running.
+The girl is building a sandcastle.
+The mother is pouring water in the glass.
+Man is reading a book.
+The car is in the driveway.
+The sailboat is on the water.
+The radio is on the picnic blanket.
+The picnic basket is on the blanket.
+The flipflops are on the blanket.
+",P85_Sentence1,nfvPPA,control
+P125,"It is a house on the water.
+There is two children and mother and father I guess.
+They are drinking.
+He is talking on the boat on a box on a something.
+They have their car there.
+There is a dog.
+There is guy out there getting stuff in the water.
+",P125_Sentence1,svPPA,Unknown
+P45,"This picture is about a family on a summer day vacationing by the lake.
+The father is reading a book.
+The mother is drinking a glass of wine.
+She is pouring a wine.
+They have the music.
+They are sitting on a blanket in the grass.
+The son is flying a kite.
+He has his dog chasing him.
+The daughter is by the water.
+She is in the sand making a sandcastle.
+On the lake or ocean, there is a sailboat.
+It is a nice day.
+They are right outside their house.
+There is a car in the driveway.
+There is a tree in front of the house.
+It seems like a lovely excursion.
+There is a man fishing on the pier.
+They are surrounded by trees.
+The guy has his sandals off.
+He is wearing glasses.
+The little boy is wearing shorts just like his mom.
+He is laughing as he runs along the side with his kite.
+There are birds in the trees.
+It seems overall a very good day.
+",P45_Sentence1,control,control
+P36,"There is a family at the beach.
+They are probably by the lake.
+The daughter is playing in the sand with her sand bucket and shovel.
+The sun is flying a kite with the dog chasing him.
+The parents on a picnic blanket, listening to the radio with the mother pouring something to drink.
+The father is reading a book.
+",P36_Sentence1,control,Unknown
+P79,"They are on the beach.
+She is drinking wine.
+He is pulling his.
+I had my glasses redone.
+I have to look through this part to be able to see better than.
+That is what I do I take my glasses when I even on the computer instead of.
+Usually before when I had glasses on.
+I have not worn my glasses for fifty years you would not even know.
+I always see.
+Now it is like.
+She is drinking wine.
+He is got his dog.
+There is a fisher going on over there.
+She is doing I do not know what they call that anymore.
+But she is doing a uhh.
+This is like Nantucket.
+Very Nantucket.
+He has got his.
+See I do not know what that is anymore.
+You know I know visually.
+I do not know what the name of that is anymore.
+He is fishing.
+I said they are on the the beach.
+They always do things like that.
+I cannot remember what to call it.
+Of course that is a boat.
+It has got.
+That is her basket.
+It is amazing what kind of sandals.
+Reading his book, he is.
+There is a tree over a house with a car and a flag.
+Well I mean I have never.
+Is that what she puts her?
+Lots of people put their music.
+But that is the generation I did not.
+I never had that.
+So I never had one of those.
+I go to aerobics.
+A woman who does aerobics she brings that puts in a wonderful.
+So songs from back you know the seventies or eighties.
+We enjoy hearing songs back then.
+That is what really the uhh.
+I play songs in our twenties thirties and forties at the old our Allen home.
+One and the our Allen home most people are in their late seventies and eighties and nineties.
+They are in pretty.
+You know they have to be taken care.
+One time I was playing, a woman started singing.
+She sang along, isn't she sweet?
+So the nurse came over and said she has not spoken in three weeks.
+When she heard.
+That is because even though your sad brain your bad brain remembers more back history.
+So she probably remembered more from her grandparents than any music from the last thirty or forty years.
+That was really funny that she heard that song.
+So that then I made her comment about music or anyway.
+So I am able to probably play that part of your back brain.
+So I might still be able to play the piano.
+",P79_Sentence1,svPPA,Unknown
+P92,"The the people the man and the woman are having a picnic.
+The boy is flying a kite.
+The little girl is playing in the sand.
+The fisherman is casting his rod in the water.
+There is a sailboat.
+The boat there as well.
+The little dog is running alongside the boy.
+It is a very good day at the beach.
+",P92_Sentence1,nfvPPA,control
+P51,"This is a picture of a family enjoying a picnic and other activities next to a lake.
+Mother and dad are sitting on a blanket.
+Dad is reading a book.
+Mom is pouring a drink into a cup.
+They have a picnic basket between them.
+A young boy is flying a kite with his dog running along side with him.
+A young girld is building sandcastles.
+A little further down along the beach, there is a person fishing off of a pier.
+My imagination tells me that this maybe a family visiting their inlaws possibly or grandparents who live in the house in the distance.
+There is a car parked in the driveway.
+Perhaps the person who owns the house is the person that is fishing.
+It looks like a very pleasant family gathering.
+Everybody seems to be having fun.
+Everybody seems happy.
+The dog looks very happy.
+There is also a boat in the distance, a sailboat.
+There are people I think on that boat.
+",P51_Sentence1,control,Unknown
+P22,"In this picture I see a house with a car.
+It is decorated or has surrounding it, trees and shrubs.
+It appears to be a roofed house and shingles and not tile or tin.
+There is a large tree in front of the house appears to have some age on it because of the height of the tree and the amount of the leaves on the tree.
+There is a flag on the property of the home.
+There is no indication of if it is American or of a different country.
+They appear to have some property on the lot.
+It is sitting by itself near a large lake perhaps.
+There is a sailboat with the word 470 on the sail that has two people on it slowly trolling by.
+One of them appears to be waving.
+There is a gentleman with a hat on a dock.
+It is extending over the water.
+He has a fishing pole with him and appears to have caught a small fish.
+There appears to be on this lake a small area sandy beach which a young girl with her hair in a ponytail and wearing perhaps a bathing suit or tanktop has a cup and a shovel and a bucket.
+She is making a sandcastle.
+There is a boy who appears to be approximately 8 to 12 years old running on a grass next to the beach area.
+He has a kite which is in his hand that he is running with.
+He is wearing what appears to be a tshirt and shorts and a belt, socks that are crew socks and shoes.
+There is a dog running along behind him.
+This dog appears to have maybe at least 2 to 3 days on it of a golden retriever slash beagle like look to it.
+In a grass are perhaps the parents of these two children, a man and a woman.
+The man has glasses and is reading a book.
+He is wearing a tshirt and appears to be a jeans and belt and sandals hit off to the side.
+The woman has her hair pulled back.
+She is wearing tanktops, shorts and what appears to be docksiders.
+There is a radio with antenna perhaps providing some entertainment.
+A picnic basket.
+She is pouring from a bottle into a cup perhaps for both of them perhaps wine based on the bottle.
+There could be more.
+",P22_Sentence1,control,Unknown
+P130,"There is a picnic going on.
+A man and a woman are on a blanket.
+They have a radio on.
+I guess the antenna is up.
+The man is reading a book with a glasses.
+The woman is pouring a drink from a bottle.
+There is a picnic basket on the blanket between the man and the woman.
+There is a uhh.
+The man has taken his sandals off.
+They are on the lawn near a lake.
+There is a boy going by flying a kite with a dog at his heels.
+Beach out front.
+The girl building sandcastles.
+There is a dock jetting out from the beach where a man with a hat is catching fish.
+A sailboat going by on the lake.
+470 is on the sail.
+There are two people in the boat.
+There is a house set back from the lake with a tree in front.
+Tree in the front of the house.
+A car in the driveway.
+A flagpole with a flag.
+I cannot tell if it is an American flag at the flagpole beside the house.
+",P130_Sentence1,nfvPPA,Unknown
+P124,"It looks like having your home right where you'd want to play when you go on a picnic.
+You have got everything.
+You have got a beach.
+You got somebody fishing and someone having a having a nice picnic.
+Of course a fellow running through the kite with his dog.
+What else would I want to think about?
+Oh, she is making a castle.
+That is right.
+Well they are pouring a looks like wine into a little cup and one of those baskets.
+We got a little radio going boom boom boom radio.
+And he is wearing his.
+He he took off his flips.
+She has got her sneakers on.
+He is reading book.
+",P124_Sentence1,lvPPA,control
+P86,"This guy is sitting there with kids and doing things.
+Water over there.
+House.
+I do not know whether the house is what he is in there.
+No it is probably a house taking away for their house.
+This with the kids I would say.
+Dogs all that.
+Kids that stuff like that.
+Anything bad?
+This guy has got there over there.
+Eating, drinking.
+Dog.
+",P86_Sentence1,lvPPA,svP
+P82,"There is a lot of kids in there.
+They are doing a lot of things in there.
+They are doing a lot of that stuff.
+I do not know what we are talking about.
+He is just doing that thing there.
+He is just watching that thing there.
+This person has got that little thing there.
+He is with that person.
+That woman, Josh and Jenny, they have that car that thing there.
+",P82_Sentence1,svPPA,Unknown
+P81,"A man has wife have gone out to have a good fun with a bag with food.
+And one with drinks and something.
+The child, the boy, would go along with things he wants to do with his little bag.
+I cannot do it dog and at his feet.
+It looks like his sister is playing in the sand.
+She is fixing something that she likes.
+The oldest man he is on the outside.
+He is doing some catching with fish.
+Way out there is a life a 470.
+I cannot remember what that is.
+Anyway they are not far from their house.
+Their house has a really nice look.
+It has got a nice tree in front of it.
+",P81_Sentence1,lvPPA,Unknown
+P5,"The lady and a man are out on a picnic.
+There is a picnic basket.
+She is pouring juice into a cup looks like.
+He is very engrossed in his book that he is reading.
+He does not even seem to notice the liquid be poured.
+The sandwich is nearby.
+Shoes are on the blanket in case they want to get up and take a walk.
+Then we have a young boy flying a kite.
+His dog is running behind him trying to catch him.
+There is a little girl making a sandcastle in the sand.
+There is a bucket and a shovel next to her.
+Then out on the pier there is a man fishing.
+I think he has caught a fish.
+Then further out is a sailboat sailing along.
+So there must be a breeze of some sort.
+Although the tree is really not moving.
+I guess the birds in the tree are happy about that.
+Because they might have flown out by now.
+There is a house with a car outside.
+I think people are home I guess.
+Since the car is in the driveway.
+It might be that the this couple lives in that house.
+The man and the woman who are on the picnic.
+Maybe the little boy who is flying the kite they are all from the house.
+How is that?
+",P5_Sentence1,control,Unknown
+P123,"It seems to me that they either live, or they are renting that house.
+They decided to sit out on the.
+It is a lake or a pond.
+And they are sitting eating.
+The guy is reading a book.
+They have one car there.
+That means that only one of them could go away not all together.
+Looks like two children and a dog uhh.
+Another man who is fishing.
+Somebody is out.
+A couple of people are out on a boat.
+They look kind of happy together.
+She is making something, along the water, in the sand.
+He is carrying a.
+See, that name went out of my head.
+I know what it is.
+She is pouring a drink.
+Radio.
+He is reading a book.
+He had his shoes off.
+She had hers on.
+",P123_Sentence1,svPPA,Unknown
+P96,"There is a fellow sitting there reading a book.
+Probably his wife or his friend is giving him probably a beer.
+A 12 year old boy is being tackled by his dog.
+What is this one here?
+They are building something on the water.
+You got a fisherman.
+He got kids use sky.
+No there is one kite.
+There is a car and flag and house and a boat.
+That is about it I guess.
+Is not it?
+",P96_Sentence1,lvPPA,nfvPPA
+P42,"It is a pencil sketch of a family sitting outside the house on a lawn or a lake.
+The kid is flying a kite.
+Woman is pouring what looks like a wine into a glass.
+The man is reading from a book.
+Dog is running beside the kid with the kite.
+Out on the dock there is a guy fishing.
+There is a car parked on the driveway and a sailboat on the lake.
+Little girl is making a sandcastle.
+",P42_Sentence1,control,Unknown
+P97,"Daddy is reading.
+Mommy is drinking.
+The little boy is running.
+They are on the ocean front.
+Somebody is fishing.
+There is a boat a house a car.
+I see I forget these whatever they are.
+I know what they are.
+I forget the name of it.
+",P97_Sentence1,svPPA,control
+P40,"This is a picture of a family at the beach or maybe at a lake.
+It looks like they have a vacation home there with the nice shade tree in front of the house.
+In one part of the picture, there is a sailboat with them look like two people in there.
+One is waving at the people on the shore.
+It looks like grandpa is fishing and catching fish on the dock.
+A little girl is building a sandcastle.
+She has a shovel and a pail there that she has gotten her sand in.
+The young boy is flying a kite.
+He has his dog that is following him as he is running along the path along the shore.
+Dog is wagging his tail and his tongues hanging out.
+He is a happy camper.
+Mom and dad look like they are having a picnic on the ground.
+They have a blanket spread out.
+Their shoes are off.
+The dad shoes are off.
+The mom has hers on.
+They have a radio there playing maybe the seventies music.
+The dad is reading a book.
+He has on a shirt and slacks it looks like.
+Mom is pouring a glass or cup of something to drink.
+They have a picnic basket there in between them.
+Dad is sitting on the blanket.
+The mom is kneeling down.
+She has on a tank top in a pair of shorts.
+In front of their home there is a flag that is flying.
+It looks like it is a windy day.
+So that is good for the kite and the sailboat.
+It looks like a beautiful lovely day.
+Birds are in the air flying around.
+Everyone is having a good time getting their own thing.
+Especially the boy looks like he is having the best time.
+He has a big smile on his face as he is running along with a kite flying behind him.
+",P40_Sentence1,control,control
+P68,"There is a tree on the house.
+The car is on the road.
+The man and woman are having a picnic basket at the beach.
+Then the kids.
+What is that?
+There's a fisherman.
+There is.
+The boy is flying a kite.
+The girl.
+The dog is running around.
+I do not know if that's really.
+She is making a sandcastle.
+They are drinking and having a picnic with a boombox.
+",P68_Sentence1,nfvPPA,control
+P109,"It looks like several people.
+And, let us say that we have got, two kids with father and a mother and a dog.
+Then there is a guy a little bit in the background who is probably not part of the family.
+I cannot tell.
+And then off in the distance, farther, are two people in a sailing boat.
+And this is probably not in the ocean, but in some large pond of some kind.
+They are having a great time.
+It is probably a weekend.
+Daddy is reading.
+Mommy is having a wine I guess.
+The boy has got a uhh.
+Let us go back for a minute.
+The sister is making a castle probably by sand but maybe dirt.
+There is we got a.
+For a moment I cannot think what that guy in the sky is.
+For a moment I cannot remember what that is.
+It is probably the American anyway.
+They are spoiling the day by having this noisy radio here.
+Car is okay.
+",P109_Sentence1,lvPPA,control
+P83,"It looks like a picnic.
+Doggy running around.
+Little girl is playing with the sand.
+This guy flying his kite.
+There is a radio.
+Basket drinking something.
+A sailboat over there.
+There is a flag, car, tree, house.
+Is that enough?
+",P83_Sentence1,lvPPA,control
+P54,"I see a family having a picnic by a lake.
+It looks like the summer time.
+A little girl is making a sandcastle on a sand.
+That must be a beach there.
+Dog is playing with boy who is flying a kite.
+There is a sailboat in the lake with the number 470 on the sail.
+There is a house with a car in the driveway.
+They have a flagpole with a flag on it.
+There is a tree in front of the house.
+A man and a woman are on a blanket having a picnic.
+She is pouring some kind of a drink to a glass.
+They have a radio there.
+He has flipflops which he has off.
+He is wearing glasses and reading a book.
+It looks like a very nice day.
+Everybody is having fun.
+So a typical summer day at the lake.
+",P54_Sentence1,control,control
+P121,"They are on the beach.
+There are one two three four five people.
+There a little just only one one dog.
+I have got a dog.
+A matter of fact I have got a house.
+I do not know if I should tell you this.
+I have a house up in Maine right on the water which is the same thing.
+It is closer than this.
+Anyway and I also see these all the time.
+I do not know what they are called on the ocean.
+I do a lot of work this little kid is doing.
+And I have got people who pick this one right here.
+People do that right in front of my house.
+The pick up fish.
+I mean this is a house.
+This is a tree.
+This I gave this to my daughter.
+I mean my son.
+I forget what it is called.
+Remember I gave that what is it called?
+I gave that to him in August, his birthday.
+And this guy is reading a book.
+This lady is giving him something to drink.
+They are having fun.
+It is fun to watch this.
+",P121_Sentence1,svPPA,control
+P56,"What is going on in this picture is a man and a woman are sitting on a blanket having a picnic at a lake.
+There is a boy about 10 or 12 years old running on a trail behind them flying a kite.
+A dog is chasing him.
+All of these characters are smiling.
+The woman that is seated on the blanket is pouring a glass of wine.
+The man that is seated on the blanket is reading a book.
+He has taken his sandals off and placed them on the blanket.
+They have a cassette player radio on the blanket.
+They are listening to music and preparing to open the picnic basket for their lunch.
+There are other people playing at the lake behind them.
+One man is on the pier fishing.
+He has just caught a fish who is wiggling on the line as he is pulling the fish in.
+There is a young girl on that sandy beach of the lake who is building a sandcastle.
+She has a bucket and a shovel to build the sandcastle with.
+She has her hair tied in a ponytail.
+In the background on the lake, there is a sailboat sailing on the lake.
+The poeple on the sailboat are waving to the people on the shore.
+The number on the shore is 470.
+On the left side of the drawing is a house with a car parked in the driveway.
+It has a large tree like an oak tree in the front yard.
+It sets the scene for the play day everyone is enjoying.
+In the front yard side of the house there is a flagpole with the flag flying in the breeze.
+So obviously there is a nice breeze.
+Because the kite is flying.
+The flag is flying.
+The sailboat is sailing.
+",P56_Sentence1,control,Unknown
+P57,"This is a picture of a family who looks like they are having a good time outside.
+The dad has his head buried in a book.
+He looks comfortable.
+He has got his shoes off.
+He is sitting on a blanket with his wife.
+She is pouring some wine into a cup.
+It looks like they are getting ready to have a picnic or they are having a picnic.
+They have got a boombox there to listen to some music.
+So they are probably having a staycation.
+Because their house is in the background.
+Their car is there.
+Their house is located right on the lake.
+So that is an OK vacation to have.
+Their son is flying a kite.
+It must be windy out.
+The family dog is chasing the boy who is flying the kite.
+On the beach there is a little girl.
+She is busy building a sandcastle.
+She has her tools beside her.
+Standing on a dock is a neighbor or a friend or someone wearing a hat.
+He is excited.
+Because he just caught a fish.
+You can see the fish at the end of the fishing pole.
+Then out in the distance, we see a sailboat.
+It looks like there is a couple of people sitting on the sailboat.
+The sailboat has a number on it.
+It is probably very windy out.
+Since the boy is flying his kite.
+The sailboat is probably moving along at a pretty good clip.
+So all in all it looks like the family is having a good time.
+Everyone has his own activity going on.
+They are probably enjoying the day.
+",P57_Sentence1,control,Unknown
+P84,"The mother and father are drinking.
+The child is running with the animal.
+He has got a I cannot tell you.
+There is water.
+There is a flag a ball not a ball a car and a house.
+He is trying to get something out of there.
+I cannot think of that.
+",P84_Sentence1,svPPA,nfvPPA
+P80,"The couple is picnic.
+He is reading.
+The fly of kite.
+The brother.
+The son is flying a kite with the dog beside him.
+The wine bottle is.
+The fisherman is catching a fish.
+The child is raising a.
+The daughter is raising her castle.
+They live in the bungalow.
+The tree is beautiful.
+The one car is in the place in the driveway.
+The sailboat is in the water.
+",P80_Sentence1,nfvPPA,control
+P53,"This is a picture of a home with a car, a flagpole in the yard.
+The family is outside.
+The husband and wife are having a picnic.
+She is pouring wine.
+She has a radio.
+Her shoes are off.
+Her husband who is wearing glasses is reading a book.
+Perhaps it is grandfather who is out on the pier fishing.
+There is a little boy flying a kite with the dog behind him and a little girl building a sandcastle with her shovel in her bucket.
+Then in the distance, there is a sailboat with the number 470 on it.
+There is two people.
+One is waving to the people on shore.
+There is a tree in front of the house by the door.
+There is also a very big tree in the yard.
+It looks like everyone is having fun and a nice day to be outside enjoying the fresh air and the freedom that they have.
+",P53_Sentence1,control,Unknown
+P94,"It is a beach.
+And a the mother and the father putting some drink into a cup.
+There is a radio.
+There is sandals.
+The father seems to be reading.
+He has glasses.
+There is a dog running after the boy who has a kite.
+There is a girl on the beach making a castle.
+She has a shovel.
+I am not going to remember all this.
+Then there is a man on a pier, fishing.
+He has a fish.
+He has a like a I do not know like a placement.
+There is a boat in the water 470.
+And two people flags flag and a flagpole.
+There is a house and a car.
+",P94_Sentence1,lvPPA,control
+P4,"That looks like my weekend.
+A couple there is having a picnic in a very pleasant place by the water.
+Could be Charlestown or where I live over in Savin Hill.
+Kids playing a kite being chased by a dog.
+I see a little girl by the seashore making a sandcastle.
+Someone else in the distance is doing fishing might possibly be catching something.
+Sun is shining.
+It looks like a really pleasant relaxing environment.
+The guy is reading.
+The woman is pouring a drink.
+Who knows what that is.
+It should be a real pleasant afternoon.
+",P4_Sentence1,control,control
+P95,"People are in a picnic.
+A boy is flying a kite.
+Man is fishing.
+Someone is building a sandcastle.
+There is a sailboat recreational.
+Man is reading a book.
+A woman is pouring probably a glass of wine.
+There is a radio and a picnic basket.
+",P95_Sentence1,nfvPPA,control
+P122,"The boy is flying a kite.
+The dog is running after him.
+The parents are having a picnic.
+The girl is playing with a sandcastle.
+The fisherman is fishing off the dock.
+The tree is growing before the house.
+The car is parked before the garage.
+There is a flag flying.
+There are bushes around the house.
+Coming back to the picnic, the radio is next to the woman.
+His sandals are next to the man.
+A sailboat is in the bay.
+",P122_Sentence1,nfvPPA,control
+P43,"There is a couple with a picnic mat in front of the lawn.
+The woman is pouring wine into a glass.
+She has also got a radio besides her.
+Her husband is reading a book who is wearing glasses.
+He has got his sandals on the picnic mat.
+Behind them a boy is flying a kite while running, his dog is chasing him.
+Their daughter is in the background on the beach making sandcastles.
+There is also a man fishing on the pier that caught a fish.
+There is a sailboat in the background in the lake.
+",P43_Sentence1,control,control
+P47,"This picture is of a family doing a summer scene.
+Even though it is a black and white picture, I can tell it is summer.
+Because the family is wearing shorts.
+The father is wearing sandals.
+He is taking his sandals off as he sits on the blanket reading a book.
+Also the son is wearing shorts as he pulls a kite along the beach.
+What appears to be his sister is building a sandcastle on the beach down by the lake or ocean.
+Then there is looks like a man on the pier jotting down the lake who is fishing.
+It seems he has caught a fish.
+Out on the lake we see a sailboat.
+It must be a competition sailboat.
+Because it has a number on the sail that looks like the number is 470.
+The mother is on the blanket with the father sitting on the ground.
+She looks like she is pouring something into the glasses.
+It is probably a bottle of wine.
+She also has what looks like a tape player slash radio next to her.
+They are probably listening to a music.
+There is a picnic basket between the two of the people the two people, I am assuming the father and mother.
+It probably has food for the whole family.
+As the son is racing across pulling a kite, he is being chased by what looks like to be their family dog.
+In the background we see a house.
+Looks like a one car garage with a car sitting down in the driveway.
+In front of the house is a big leafy tree.
+Next to the house is a flagpole with a flag waving at the very top.
+The father is reading a book as he sits on the blanket.
+He is wearing glasses.
+So I am assuming those are reading glasses.
+",P47_Sentence1,control,Unknown
+P127,"I just.
+He is reading.
+I do not know what she is doing.
+Getting something to drink.
+The kids are walking with a little doggy.
+It is a tree.
+I do not know what that is.
+",P127_Sentence1,svPPA,nfvPPA
+P1,"Looks like a family is having a picnic in the park by the water.
+The father is doing some reading.
+The mother is pouring a glass of hopefully wine, listening to some music.
+The boy, the son, is flying a kite, running with his kite.
+Everybody looks like is having a relaxing time.
+Weather looks very very nice.
+There is a nice sailboat out there.
+A beach.
+Little girl making sandcastles in the sand.
+The man is fishing on the pier catching fish hopefully.
+That is what it looks like to me.
+",P1_Sentence1,control,Unknown
+P126,"A boy flying a kite.
+A man fishing off the dock.
+A couple having a picnic.
+And a sailboat sailing by.
+A child building a sandcastle.
+The boy that is flying the kite has a dog that is chasing him.
+",P126_Sentence1,nfvPPA,Unknown
+P90,"It she had one like this.
+It is only one thing.
+You cannot really exactly do it.
+You want me to talk of different types of things.
+There is fishing, sailing, pulling a hike dog running the guy.
+They are having a picnic the couple.
+There is a girl who is putting a pile of sand.
+That is the main things what people are doing.
+Those thing, the fisherman.
+There is a kite the dog the woman, sailing, a couple.
+There is a house.
+There is nothing to say about it.
+There is a lot of action.
+There were a lot of other things I talked to you about.
+There is something moving except for the guy reading a book.
+She is opening a maybe a bottle of beer for all I know.
+So it looks like she has got a picnic box there and probably going to have a picnic I assume.
+",P90_Sentence1,lvPPA,nfvPPA
+P132,"There is many people having a nice weekend approach going out canoeing on the lake.
+Having breakfast or lunch next to the lake.
+People making things on the shore of the lake, and fishing, and running around with their dogs.
+Someone has a house right next to the lake.
+Looks like a very nice sailing part.
+I have not seen too many people before doing a.
+Although I used to do it with a.
+Not too many people do that.
+It is sand.
+She is making a sandcastle.
+",P132_Sentence1,svPPA,control
+P69,"Someone is reading.
+Someone is pouring a drink.
+Running the dog.
+They are at the beach.
+This one is fishing.
+And this one is just sitting here doing something.
+There is the house.
+It is a beach house.
+Ocean.
+It is always nice to be near the water.
+Although this winter was really rough.
+That is all I have to say about it.
+The dog.
+We have a lot of dogs in our neighborhood.
+She is sitting there.
+And she is making with the sand.
+She is making a castle in the sand.
+They are over there.
+Are they fishing?
+This guy is fishing too.
+I like fish.
+I like lobster.
+I like fish.
+",P69_Sentence1,svPPA,Unknown
+P120,"They are playing up in the running.
+Family running around playing games somethings.
+That is it.
+Some of them are running around.
+Then the others are sitting right down happy, reading it.
+There is some people here in their cars right there.
+They all must be in together.
+That is a little girl there.
+Is not it?
+With their babies put the stuff that they play with.
+That is Friday, in the wood, and water, wine.
+Somebody to eating it, playing it, their home.
+She is making the food.
+Reading.
+He is pulling this thing up high.
+That is what they want, to keep it up in the air.
+There is another one running around in there.
+Other than that, there is a dog here.
+",P120_Sentence1,svPPA,Unknown
+P6,"There is a fellow reading a book.
+There is a woman.
+Looks like she is getting ready for picnic.
+There is a radio possibly playing some music.
+Then there is a boy running pulling a kite behind him and a dog following along.
+A fisherman looks like he may have caught something.
+Because it looks like it is coming out of the water the hook.
+Then there is a little girl building something possibly with sand.
+Because it looks like a beach.
+There is a boat that is going eastbound by himself.
+Then there is a house with a car in the outside the garage.
+A tree there too.
+",P6_Sentence1,control,control
+P7,"This is a picture that talks about people in recreational sports or playing.
+There are people in the background and a sailboat enjoying a sunny day.
+In the foreground there is a boy with his dog.
+His dog is running aside of him with this stick.
+The boy is pulling a kite behind them that is flying in the air.
+Everyone in the picture is pretty more or less happy.
+Even the house looks like it is a happy home.
+They are flying a flag possibly it is the Memorial day.
+There is a little girl playing on the sand.
+She is on the beach and making a sandcastle and has a pail and a shovel.
+There is a man and a wife enjoying a picnic with the boombox playing music and drinking some soda and having some food.
+The woman has her shoes off and looks to be very relaxed.
+There is a gentleman fishing and looks to be almost on the verge of catching a fish.
+He is engaged in his recreational sport out on a pier that is directly across from the house.
+The house has a big tree in the yard.
+It is in full bloom.
+I would say the season of this picture is summer.
+Everyone is involved in summer activities and enjoying a sunny day.
+",P7_Sentence1,control,Unknown
+P108,"As far as what there is?
+There is two people there.
+There is a tree and a house and a rook.
+Is that what is on the top?
+It looks like some swimming down at the water.
+Oh, and there is a dog.
+He is walking.
+Someone is reading something paper.
+The girl is watering something maybe.
+There is the sandals.
+There is a car.
+This thing.
+I am trying to think of what it is called.
+",P108_Sentence1,svPPA,nvPPA
+P55,"Looks like family has a house.
+I think it is a house or a friend's place on the lake.
+The kids are having a good time.
+There going to have a picnic.
+And they have somebody who is fishing.
+The kids are playing.
+One is working.
+The girls putting together a sandcastle.
+The boys has a kite.
+Some friends are in the sailboat.
+I think they are sort of waking the wave.
+The mother is putting some I'd like to think it's wine to drink.
+They got a radio.
+And they have got this.
+I think it is the father.
+The male has got his shoes off.
+He is reading a book.
+There is nothing on the page.
+It is a plain.
+Let us see what else.
+It's a little bit of breeze the flag is.
+The hot kite is up.
+It is like a very nice day.
+",P55_Sentence1,lvPPA,Unknown
+P41,"This picture is an outdoor scene.
+It is a setting by a lake.
+Two people are having a picnic on a blanket.
+They are having a picnic basket and a radio and a pair of sandals on the blanket.
+It is a man and a woman having a picnic.
+The woman is pouring a glass of wine.
+The man is reading a book.
+There is a boy running with his dog.
+He is flying a kite.
+Down at the shore, there is a girl wearing a ponytail making a sandcastle.
+She has a bucket and a shovel next to her.
+Further away from the girl, out on the lake, standing on a dock, is a man wearing a hat.
+He has just caught a fish.
+Out on the lake, there is a sailboat with two people on it sailing it.
+The sail says 470 on it.
+Further down next to the man standing on the dock is a small house.
+The house has two windows, a door and a garage.
+In front of the garage, there is a small car.
+The house also has a flagpole with a flag flying.
+It looks like it is windy.
+In front of the house is a big tree.
+There is a front door that has a window.
+The house has shrubbery all around it and a smaller tree next to the front door.
+That is about all I can see from this picture.
+Everybody seems to be happy and content in it.
+",P41_Sentence1,control,Unknown
