@@ -1,1 +1,2 @@
-results/checkpoint-213/model.safetensors
+.DS_Store
+$results/checkpoint-213/model.safetensors
